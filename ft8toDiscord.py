@@ -1,4 +1,4 @@
-# Pip install adif_io d discord.py pyhamtools  emoji-country-flag contry_converter
+# Pip install adif_io d discord.py pyhamtools  emoji-country-flag country_converter
 
 import os
 import flag
